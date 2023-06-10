@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="dao/" kind="src" path="src"/>
+	<classpathentry kind="src" path="src/dao"/>
+	<classpathentry kind="lib" path="lib/javax.annotation.jar"/>
+	<classpathentry kind="lib" path="lib/javax.ejb.jar"/>
+	<classpathentry kind="lib" path="lib/javax.jms.jar"/>
+	<classpathentry kind="lib" path="lib/javax.persistence.jar"/>
+	<classpathentry kind="lib" path="lib/javax.resource.jar"/>
+	<classpathentry kind="lib" path="lib/javax.servlet.jar"/>
+	<classpathentry kind="lib" path="lib/javax.servlet.jsp.jar"/>
+	<classpathentry kind="lib" path="lib/javax.servlet.jsp.jstl.jar"/>
+	<classpathentry kind="lib" path="lib/javax.transaction.jar"/>
+	<classpathentry kind="lib" path="lib/mysql-connector-java-8.0.25.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/2_war_exploded/WEB-INF/lib/javax.annotation.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/2_war_exploded/WEB-INF/lib/javax.jms.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/2_war_exploded/WEB-INF/lib/javax.persistence.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/2_war_exploded/WEB-INF/lib/javax.resource.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/2_war_exploded/WEB-INF/lib/javax.servlet.jsp.jstl.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/2_war_exploded/WEB-INF/lib/javax.transaction.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/2_war_exploded/WEB-INF/lib/jspsmart.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/2_war_exploded/WEB-INF/lib/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/2_war_exploded/WEB-INF/lib/jtds-1.2.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/2_war_exploded/WEB-INF/lib/listener.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/2_war_exploded/WEB-INF/lib/mysql-connector-java-8.0.21.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/2_war_exploded/WEB-INF/lib/mysql-connector-java-8.0.25.jar"/>
+	<classpathentry kind="lib" path="web/WEB-INF/lib/jspsmart.jar"/>
+	<classpathentry kind="lib" path="web/WEB-INF/lib/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="web/WEB-INF/lib/jtds-1.2.jar"/>
+	<classpathentry kind="lib" path="web/WEB-INF/lib/listener.jar"/>
+	<classpathentry kind="lib" path="web/WEB-INF/lib/mysql-connector-java-8.0.21.jar"/>
+	<classpathentry kind="output" path="out/artifacts/2_war_exploded/WEB-INF/classes"/>
+</classpath>

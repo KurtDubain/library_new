@@ -1,0 +1,22 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="课设2:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/2_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="课设2/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="课设2" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="javax.annotation" />
+          <element id="library" level="project" name="javax.jms" />
+          <element id="library" level="project" name="javax.persistence" />
+          <element id="library" level="project" name="javax.resource" />
+          <element id="library" level="project" name="javax.transaction" />
+          <element id="library" level="project" name="mysql-connector-java-8.0.25" />
+          <element id="library" level="project" name="javax.servlet.jsp.jstl" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
